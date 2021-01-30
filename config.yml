@@ -1,4 +1,4 @@
-baseURL: "http://nanosector.nl/"
+baseURL: "https://www.nanosector.nl/"
 languageCode: "en-us"
 title: "Nano's Blog"
 paginate: 5
