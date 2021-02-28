@@ -1,10 +1,10 @@
 ---
 title: "Windows 10 on old Macs without Boot Camp"
 date: 2021-02-28T20:09:04+01:00
-draft: true
+draft: false
 tags: ["howto", "software"]
 showtoc: true
-description: "Mac touchpads are weird and cause issues when missing."
+description: "Such a pain..."
 todo: [
     "add images"
 ]
